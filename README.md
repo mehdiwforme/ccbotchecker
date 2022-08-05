@@ -1,0 +1,2 @@
+# ccbotchecker
+none
